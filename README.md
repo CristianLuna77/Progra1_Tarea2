@@ -1,3 +1,2 @@
 # Progra1
-Repositorio exclusivo par el curso de Programación 1.   :)
-Provando desde la rama XD
+Repositorio exclusivo par el curso de Programació 1 :)
