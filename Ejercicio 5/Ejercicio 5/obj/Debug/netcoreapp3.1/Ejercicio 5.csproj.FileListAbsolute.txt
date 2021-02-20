@@ -1,0 +1,13 @@
+C:\Users\Cristian Luna\source\repos\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.exe
+C:\Users\Cristian Luna\source\repos\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.deps.json
+C:\Users\Cristian Luna\source\repos\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.runtimeconfig.json
+C:\Users\Cristian Luna\source\repos\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.runtimeconfig.dev.json
+C:\Users\Cristian Luna\source\repos\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.dll
+C:\Users\Cristian Luna\source\repos\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Ejercicio 5.pdb
+C:\Users\Cristian Luna\source\repos\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.csprojAssemblyReference.cache
+C:\Users\Cristian Luna\source\repos\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.AssemblyInfoInputs.cache
+C:\Users\Cristian Luna\source\repos\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.AssemblyInfo.cs
+C:\Users\Cristian Luna\source\repos\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Luna\source\repos\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.dll
+C:\Users\Cristian Luna\source\repos\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.pdb
+C:\Users\Cristian Luna\source\repos\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Ejercicio 5.genruntimeconfig.cache
