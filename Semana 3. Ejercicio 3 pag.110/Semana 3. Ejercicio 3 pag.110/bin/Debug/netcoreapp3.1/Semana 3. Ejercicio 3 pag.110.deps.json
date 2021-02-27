@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Semana 3. Ejercicio 3 pag.110/1.0.0": {
+        "runtime": {
+          "Semana 3. Ejercicio 3 pag.110.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Semana 3. Ejercicio 3 pag.110/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

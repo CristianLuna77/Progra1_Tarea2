@@ -1,0 +1,13 @@
+C:\Users\Cristian Luna\source\repos\Semana 3. Ejercicio 3 pag.110\Semana 3. Ejercicio 3 pag.110\bin\Debug\netcoreapp3.1\Semana 3. Ejercicio 3 pag.110.exe
+C:\Users\Cristian Luna\source\repos\Semana 3. Ejercicio 3 pag.110\Semana 3. Ejercicio 3 pag.110\bin\Debug\netcoreapp3.1\Semana 3. Ejercicio 3 pag.110.deps.json
+C:\Users\Cristian Luna\source\repos\Semana 3. Ejercicio 3 pag.110\Semana 3. Ejercicio 3 pag.110\bin\Debug\netcoreapp3.1\Semana 3. Ejercicio 3 pag.110.runtimeconfig.json
+C:\Users\Cristian Luna\source\repos\Semana 3. Ejercicio 3 pag.110\Semana 3. Ejercicio 3 pag.110\bin\Debug\netcoreapp3.1\Semana 3. Ejercicio 3 pag.110.runtimeconfig.dev.json
+C:\Users\Cristian Luna\source\repos\Semana 3. Ejercicio 3 pag.110\Semana 3. Ejercicio 3 pag.110\bin\Debug\netcoreapp3.1\Semana 3. Ejercicio 3 pag.110.dll
+C:\Users\Cristian Luna\source\repos\Semana 3. Ejercicio 3 pag.110\Semana 3. Ejercicio 3 pag.110\bin\Debug\netcoreapp3.1\Semana 3. Ejercicio 3 pag.110.pdb
+C:\Users\Cristian Luna\source\repos\Semana 3. Ejercicio 3 pag.110\Semana 3. Ejercicio 3 pag.110\obj\Debug\netcoreapp3.1\Semana 3. Ejercicio 3 pag.110.csprojAssemblyReference.cache
+C:\Users\Cristian Luna\source\repos\Semana 3. Ejercicio 3 pag.110\Semana 3. Ejercicio 3 pag.110\obj\Debug\netcoreapp3.1\Semana 3. Ejercicio 3 pag.110.AssemblyInfoInputs.cache
+C:\Users\Cristian Luna\source\repos\Semana 3. Ejercicio 3 pag.110\Semana 3. Ejercicio 3 pag.110\obj\Debug\netcoreapp3.1\Semana 3. Ejercicio 3 pag.110.AssemblyInfo.cs
+C:\Users\Cristian Luna\source\repos\Semana 3. Ejercicio 3 pag.110\Semana 3. Ejercicio 3 pag.110\obj\Debug\netcoreapp3.1\Semana 3. Ejercicio 3 pag.110.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Luna\source\repos\Semana 3. Ejercicio 3 pag.110\Semana 3. Ejercicio 3 pag.110\obj\Debug\netcoreapp3.1\Semana 3. Ejercicio 3 pag.110.dll
+C:\Users\Cristian Luna\source\repos\Semana 3. Ejercicio 3 pag.110\Semana 3. Ejercicio 3 pag.110\obj\Debug\netcoreapp3.1\Semana 3. Ejercicio 3 pag.110.pdb
+C:\Users\Cristian Luna\source\repos\Semana 3. Ejercicio 3 pag.110\Semana 3. Ejercicio 3 pag.110\obj\Debug\netcoreapp3.1\Semana 3. Ejercicio 3 pag.110.genruntimeconfig.cache
