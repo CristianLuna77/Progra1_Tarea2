@@ -1,0 +1,13 @@
+C:\Users\Cristian Luna\source\repos\calcular el factorial de un número\calcular el factorial de un número\bin\Debug\netcoreapp3.1\calcular el factorial de un número.exe
+C:\Users\Cristian Luna\source\repos\calcular el factorial de un número\calcular el factorial de un número\bin\Debug\netcoreapp3.1\calcular el factorial de un número.deps.json
+C:\Users\Cristian Luna\source\repos\calcular el factorial de un número\calcular el factorial de un número\bin\Debug\netcoreapp3.1\calcular el factorial de un número.runtimeconfig.json
+C:\Users\Cristian Luna\source\repos\calcular el factorial de un número\calcular el factorial de un número\bin\Debug\netcoreapp3.1\calcular el factorial de un número.runtimeconfig.dev.json
+C:\Users\Cristian Luna\source\repos\calcular el factorial de un número\calcular el factorial de un número\bin\Debug\netcoreapp3.1\calcular el factorial de un número.dll
+C:\Users\Cristian Luna\source\repos\calcular el factorial de un número\calcular el factorial de un número\bin\Debug\netcoreapp3.1\calcular el factorial de un número.pdb
+C:\Users\Cristian Luna\source\repos\calcular el factorial de un número\calcular el factorial de un número\obj\Debug\netcoreapp3.1\calcular el factorial de un número.csprojAssemblyReference.cache
+C:\Users\Cristian Luna\source\repos\calcular el factorial de un número\calcular el factorial de un número\obj\Debug\netcoreapp3.1\calcular el factorial de un número.AssemblyInfoInputs.cache
+C:\Users\Cristian Luna\source\repos\calcular el factorial de un número\calcular el factorial de un número\obj\Debug\netcoreapp3.1\calcular el factorial de un número.AssemblyInfo.cs
+C:\Users\Cristian Luna\source\repos\calcular el factorial de un número\calcular el factorial de un número\obj\Debug\netcoreapp3.1\calcular el factorial de un número.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Luna\source\repos\calcular el factorial de un número\calcular el factorial de un número\obj\Debug\netcoreapp3.1\calcular el factorial de un número.dll
+C:\Users\Cristian Luna\source\repos\calcular el factorial de un número\calcular el factorial de un número\obj\Debug\netcoreapp3.1\calcular el factorial de un número.pdb
+C:\Users\Cristian Luna\source\repos\calcular el factorial de un número\calcular el factorial de un número\obj\Debug\netcoreapp3.1\calcular el factorial de un número.genruntimeconfig.cache

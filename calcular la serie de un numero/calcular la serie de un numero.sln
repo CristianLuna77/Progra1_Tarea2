@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcular la serie de un numero", "calcular la serie de un numero\calcular la serie de un numero.csproj", "{2CD1CFB5-5C96-4708-977B-44BC7598BE2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CD1CFB5-5C96-4708-977B-44BC7598BE2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD1CFB5-5C96-4708-977B-44BC7598BE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD1CFB5-5C96-4708-977B-44BC7598BE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD1CFB5-5C96-4708-977B-44BC7598BE2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31570220-65C3-49BF-9F1E-9445CDF55AC1}
+	EndGlobalSection
+EndGlobal
