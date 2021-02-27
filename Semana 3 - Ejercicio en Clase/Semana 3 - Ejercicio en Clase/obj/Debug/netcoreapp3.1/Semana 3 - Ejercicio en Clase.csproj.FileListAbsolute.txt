@@ -1,0 +1,13 @@
+C:\Users\Cristian Luna\source\repos\Semana 3 - Ejercicio en Clase\Semana 3 - Ejercicio en Clase\bin\Debug\netcoreapp3.1\Semana 3 - Ejercicio en Clase.exe
+C:\Users\Cristian Luna\source\repos\Semana 3 - Ejercicio en Clase\Semana 3 - Ejercicio en Clase\bin\Debug\netcoreapp3.1\Semana 3 - Ejercicio en Clase.deps.json
+C:\Users\Cristian Luna\source\repos\Semana 3 - Ejercicio en Clase\Semana 3 - Ejercicio en Clase\bin\Debug\netcoreapp3.1\Semana 3 - Ejercicio en Clase.runtimeconfig.json
+C:\Users\Cristian Luna\source\repos\Semana 3 - Ejercicio en Clase\Semana 3 - Ejercicio en Clase\bin\Debug\netcoreapp3.1\Semana 3 - Ejercicio en Clase.runtimeconfig.dev.json
+C:\Users\Cristian Luna\source\repos\Semana 3 - Ejercicio en Clase\Semana 3 - Ejercicio en Clase\bin\Debug\netcoreapp3.1\Semana 3 - Ejercicio en Clase.dll
+C:\Users\Cristian Luna\source\repos\Semana 3 - Ejercicio en Clase\Semana 3 - Ejercicio en Clase\bin\Debug\netcoreapp3.1\Semana 3 - Ejercicio en Clase.pdb
+C:\Users\Cristian Luna\source\repos\Semana 3 - Ejercicio en Clase\Semana 3 - Ejercicio en Clase\obj\Debug\netcoreapp3.1\Semana 3 - Ejercicio en Clase.csprojAssemblyReference.cache
+C:\Users\Cristian Luna\source\repos\Semana 3 - Ejercicio en Clase\Semana 3 - Ejercicio en Clase\obj\Debug\netcoreapp3.1\Semana 3 - Ejercicio en Clase.AssemblyInfoInputs.cache
+C:\Users\Cristian Luna\source\repos\Semana 3 - Ejercicio en Clase\Semana 3 - Ejercicio en Clase\obj\Debug\netcoreapp3.1\Semana 3 - Ejercicio en Clase.AssemblyInfo.cs
+C:\Users\Cristian Luna\source\repos\Semana 3 - Ejercicio en Clase\Semana 3 - Ejercicio en Clase\obj\Debug\netcoreapp3.1\Semana 3 - Ejercicio en Clase.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Luna\source\repos\Semana 3 - Ejercicio en Clase\Semana 3 - Ejercicio en Clase\obj\Debug\netcoreapp3.1\Semana 3 - Ejercicio en Clase.dll
+C:\Users\Cristian Luna\source\repos\Semana 3 - Ejercicio en Clase\Semana 3 - Ejercicio en Clase\obj\Debug\netcoreapp3.1\Semana 3 - Ejercicio en Clase.pdb
+C:\Users\Cristian Luna\source\repos\Semana 3 - Ejercicio en Clase\Semana 3 - Ejercicio en Clase\obj\Debug\netcoreapp3.1\Semana 3 - Ejercicio en Clase.genruntimeconfig.cache
