@@ -1,0 +1,26 @@
+C:\Users\Cristian Luna\source\repos\Ejercicios en clase\Ejercicios en clase\bin\Debug\netcoreapp3.1\Ejercicios en clase.exe
+C:\Users\Cristian Luna\source\repos\Ejercicios en clase\Ejercicios en clase\bin\Debug\netcoreapp3.1\Ejercicios en clase.deps.json
+C:\Users\Cristian Luna\source\repos\Ejercicios en clase\Ejercicios en clase\bin\Debug\netcoreapp3.1\Ejercicios en clase.runtimeconfig.json
+C:\Users\Cristian Luna\source\repos\Ejercicios en clase\Ejercicios en clase\bin\Debug\netcoreapp3.1\Ejercicios en clase.runtimeconfig.dev.json
+C:\Users\Cristian Luna\source\repos\Ejercicios en clase\Ejercicios en clase\bin\Debug\netcoreapp3.1\Ejercicios en clase.dll
+C:\Users\Cristian Luna\source\repos\Ejercicios en clase\Ejercicios en clase\bin\Debug\netcoreapp3.1\Ejercicios en clase.pdb
+C:\Users\Cristian Luna\source\repos\Ejercicios en clase\Ejercicios en clase\obj\Debug\netcoreapp3.1\Ejercicios en clase.csprojAssemblyReference.cache
+C:\Users\Cristian Luna\source\repos\Ejercicios en clase\Ejercicios en clase\obj\Debug\netcoreapp3.1\Ejercicios en clase.AssemblyInfoInputs.cache
+C:\Users\Cristian Luna\source\repos\Ejercicios en clase\Ejercicios en clase\obj\Debug\netcoreapp3.1\Ejercicios en clase.AssemblyInfo.cs
+C:\Users\Cristian Luna\source\repos\Ejercicios en clase\Ejercicios en clase\obj\Debug\netcoreapp3.1\Ejercicios en clase.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Luna\source\repos\Ejercicios en clase\Ejercicios en clase\obj\Debug\netcoreapp3.1\Ejercicios en clase.dll
+C:\Users\Cristian Luna\source\repos\Ejercicios en clase\Ejercicios en clase\obj\Debug\netcoreapp3.1\Ejercicios en clase.pdb
+C:\Users\Cristian Luna\source\repos\Ejercicios en clase\Ejercicios en clase\obj\Debug\netcoreapp3.1\Ejercicios en clase.genruntimeconfig.cache
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio1\Ejercicios en clase\bin\Debug\netcoreapp3.1\Ejercicios en clase.exe
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio1\Ejercicios en clase\bin\Debug\netcoreapp3.1\Ejercicios en clase.deps.json
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio1\Ejercicios en clase\bin\Debug\netcoreapp3.1\Ejercicios en clase.runtimeconfig.json
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio1\Ejercicios en clase\bin\Debug\netcoreapp3.1\Ejercicios en clase.runtimeconfig.dev.json
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio1\Ejercicios en clase\bin\Debug\netcoreapp3.1\Ejercicios en clase.dll
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio1\Ejercicios en clase\bin\Debug\netcoreapp3.1\Ejercicios en clase.pdb
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio1\Ejercicios en clase\obj\Debug\netcoreapp3.1\Ejercicios en clase.csprojAssemblyReference.cache
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio1\Ejercicios en clase\obj\Debug\netcoreapp3.1\Ejercicios en clase.AssemblyInfoInputs.cache
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio1\Ejercicios en clase\obj\Debug\netcoreapp3.1\Ejercicios en clase.AssemblyInfo.cs
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio1\Ejercicios en clase\obj\Debug\netcoreapp3.1\Ejercicios en clase.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio1\Ejercicios en clase\obj\Debug\netcoreapp3.1\Ejercicios en clase.dll
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio1\Ejercicios en clase\obj\Debug\netcoreapp3.1\Ejercicios en clase.pdb
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio1\Ejercicios en clase\obj\Debug\netcoreapp3.1\Ejercicios en clase.genruntimeconfig.cache
