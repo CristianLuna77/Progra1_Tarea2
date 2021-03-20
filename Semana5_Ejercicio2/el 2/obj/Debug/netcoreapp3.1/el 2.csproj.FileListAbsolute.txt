@@ -1,0 +1,25 @@
+C:\Users\Cristian Luna\source\repos\el 2\el 2\obj\Debug\netcoreapp3.1\el 2.AssemblyInfoInputs.cache
+C:\Users\Cristian Luna\source\repos\el 2\el 2\obj\Debug\netcoreapp3.1\el 2.AssemblyInfo.cs
+C:\Users\Cristian Luna\source\repos\el 2\el 2\obj\Debug\netcoreapp3.1\el 2.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Luna\source\repos\el 2\el 2\bin\Debug\netcoreapp3.1\el 2.exe
+C:\Users\Cristian Luna\source\repos\el 2\el 2\bin\Debug\netcoreapp3.1\el 2.deps.json
+C:\Users\Cristian Luna\source\repos\el 2\el 2\bin\Debug\netcoreapp3.1\el 2.runtimeconfig.json
+C:\Users\Cristian Luna\source\repos\el 2\el 2\bin\Debug\netcoreapp3.1\el 2.runtimeconfig.dev.json
+C:\Users\Cristian Luna\source\repos\el 2\el 2\bin\Debug\netcoreapp3.1\el 2.dll
+C:\Users\Cristian Luna\source\repos\el 2\el 2\bin\Debug\netcoreapp3.1\el 2.pdb
+C:\Users\Cristian Luna\source\repos\el 2\el 2\obj\Debug\netcoreapp3.1\el 2.dll
+C:\Users\Cristian Luna\source\repos\el 2\el 2\obj\Debug\netcoreapp3.1\el 2.pdb
+C:\Users\Cristian Luna\source\repos\el 2\el 2\obj\Debug\netcoreapp3.1\el 2.genruntimeconfig.cache
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio2\el 2\bin\Debug\netcoreapp3.1\el 2.exe
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio2\el 2\bin\Debug\netcoreapp3.1\el 2.deps.json
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio2\el 2\bin\Debug\netcoreapp3.1\el 2.runtimeconfig.json
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio2\el 2\bin\Debug\netcoreapp3.1\el 2.runtimeconfig.dev.json
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio2\el 2\bin\Debug\netcoreapp3.1\el 2.dll
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio2\el 2\bin\Debug\netcoreapp3.1\el 2.pdb
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio2\el 2\obj\Debug\netcoreapp3.1\el 2.csprojAssemblyReference.cache
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio2\el 2\obj\Debug\netcoreapp3.1\el 2.AssemblyInfoInputs.cache
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio2\el 2\obj\Debug\netcoreapp3.1\el 2.AssemblyInfo.cs
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio2\el 2\obj\Debug\netcoreapp3.1\el 2.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio2\el 2\obj\Debug\netcoreapp3.1\el 2.dll
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio2\el 2\obj\Debug\netcoreapp3.1\el 2.pdb
+C:\Users\Cristian Luna\source\repos\Semana5_Ejercicio2\el 2\obj\Debug\netcoreapp3.1\el 2.genruntimeconfig.cache
