@@ -1,0 +1,16 @@
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\bin\Debug\netcoreapp3.1\Tarea POO.exe
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\bin\Debug\netcoreapp3.1\Tarea POO.deps.json
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\bin\Debug\netcoreapp3.1\Tarea POO.runtimeconfig.json
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\bin\Debug\netcoreapp3.1\Tarea POO.runtimeconfig.dev.json
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\bin\Debug\netcoreapp3.1\Tarea POO.dll
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\bin\Debug\netcoreapp3.1\Tarea POO.pdb
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\obj\Debug\netcoreapp3.1\Tarea POO.csprojAssemblyReference.cache
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\obj\Debug\netcoreapp3.1\Tarea_POO.Form1.resources
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\obj\Debug\netcoreapp3.1\Tarea_POO.Properties.Resources.resources
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\obj\Debug\netcoreapp3.1\Tarea POO.csproj.GenerateResource.cache
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\obj\Debug\netcoreapp3.1\Tarea POO.AssemblyInfoInputs.cache
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\obj\Debug\netcoreapp3.1\Tarea POO.AssemblyInfo.cs
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\obj\Debug\netcoreapp3.1\Tarea POO.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\obj\Debug\netcoreapp3.1\Tarea POO.dll
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\obj\Debug\netcoreapp3.1\Tarea POO.pdb
+C:\Users\Cristian Luna\source\repos\Tarea POO\Tarea POO\obj\Debug\netcoreapp3.1\Tarea POO.genruntimeconfig.cache
