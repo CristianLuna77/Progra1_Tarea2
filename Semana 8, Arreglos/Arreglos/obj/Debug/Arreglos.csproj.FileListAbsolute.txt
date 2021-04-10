@@ -1,0 +1,10 @@
+C:\Users\Cristian Luna\source\repos\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\Cristian Luna\source\repos\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\Cristian Luna\source\repos\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\Cristian Luna\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.csprojAssemblyReference.cache
+C:\Users\Cristian Luna\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.Form1.resources
+C:\Users\Cristian Luna\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.Properties.Resources.resources
+C:\Users\Cristian Luna\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.GenerateResource.cache
+C:\Users\Cristian Luna\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Luna\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\Cristian Luna\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
